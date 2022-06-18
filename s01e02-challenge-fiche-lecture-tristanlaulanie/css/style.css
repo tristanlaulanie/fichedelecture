@@ -1,0 +1,78 @@
+/* Ici vos styles CSS*/
+
+.paragraphe-couleurfond {
+    background-color: lightyellow;
+    text-align: center;
+}
+
+.element-surligne {
+    color: black;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.overlined {
+    text-decoration: overline;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.div1 {
+    background-color: white;
+}
+
+.div2 {
+    background-color: white;
+}
+
+#titre {
+    color:white;
+    font-size: 4rem;
+    text-align: center;
+    background-color: #20b2aa;
+}
+
+.esperluete {
+    font-size: 6rem;
+}
+
+.titresbleus {
+    color: rgb(45, 223, 214);
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.titre-lestextes {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.texte-selecteur {
+text-align: left;
+};
+
+
+strong {
+    font-weight: 550;
+    font-style: italic;
+}
+
+body {
+    margin: 1em;
+    padding: 0.5em;
+    background-color: rgb(164, 226, 204);
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+.basdepage {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+h2, h4 {
+text-align: center;
+}
+
